@@ -28,7 +28,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           registry-url: https://npm.pkg.github.com
-          scope: '@mahendar8121'
+          scope: '@shekharjadi'
 
       - name: Install dependencies (with auth)
         run: npm ci

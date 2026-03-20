@@ -17,7 +17,5 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "@mahendar8121/commonjs-package": "^0.2.0",
-    "@mahendar8121/ts-njm-utils": "^1.0.0"
-  }
+     }
 }
